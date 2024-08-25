@@ -52,10 +52,7 @@ arbitrage-database/
 ├── ddl/
 │   ├── 00_create_admin.sql
 │   ├── 01_create_schema.sql
-│   ├── 02_create_bot_user.sql
-│   ├── 03_grant_permissions.sql
-│   ├── 04_create_tables.sql
-│   ├── 05_create_indexes.sql
-│   ├── 06_create_partitions.sql
+│   ├── 02_create_tables.sql
+│   ├── 03_create_indexes.sql
 └── Makefile
 └── README.md

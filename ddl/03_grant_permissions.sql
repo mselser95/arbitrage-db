@@ -1,2 +1,0 @@
-GRANT USAGE ON SCHEMA arbitrage_schema TO bot;
-GRANT SELECT, INSERT, UPDATE, DELETE ON ALL TABLES IN SCHEMA arbitrage_schema TO bot;
