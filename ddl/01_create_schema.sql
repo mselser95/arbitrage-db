@@ -1,0 +1,1 @@
+CREATE SCHEMA arbitrage_schema AUTHORIZATION arbitrage_admin;

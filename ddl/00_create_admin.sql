@@ -1,0 +1,3 @@
+CREATE USER arbitrage_admin WITH PASSWORD '$ADMIN_PASSWORD' LOGIN;
+CREATE DATABASE arbitrages;
+GRANT ALL PRIVILEGES ON DATABASE arbitrages TO arbitrage_admin;
