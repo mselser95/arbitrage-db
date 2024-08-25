@@ -18,7 +18,7 @@ CREATE TABLE arbitrage_schema.markets (
     is_stable BOOLEAN
 );
 
-CREATE TABLE last_block_processed (
+CREATE TABLE arbitrage_schema.last_block_processed (
     chain_id INT PRIMARY KEY,
     block_number BIGINT NOT NULL
 );
